@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://cywj3gsfrh7jx"]
+
+[node name="alvo" type="Area2D" unique_id=1087715189]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=1499494582]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=616680495]
+
+[node name="Label" type="Label" parent="." unique_id=1633083718]
+offset_right = 40.0
+offset_bottom = 23.0
